@@ -7,3 +7,5 @@ git reset -hard annule les dernier changement avant commit
 git reset -hard
 git clone + url vérifier l'emplacement de clone
 cat permet l'affichage du fichier
+git push origin master envoyer les commits
+git pull origin recuperer des modif en ligne
